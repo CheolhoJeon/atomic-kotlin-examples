@@ -1,4 +1,4 @@
-package chap3.PropertyAccessors
+package chap2.PropertyAccessors
 
 import atomictest.*
 

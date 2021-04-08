@@ -1,4 +1,4 @@
-package chap3.Sets
+package chap2.Sets
 
 import atomictest.eq
 

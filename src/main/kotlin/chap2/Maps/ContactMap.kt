@@ -1,4 +1,4 @@
-package chap3.Maps
+package chap2.Maps
 
 import atomictest.eq
 

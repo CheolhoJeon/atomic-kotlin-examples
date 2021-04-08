@@ -1,4 +1,4 @@
-package chap3.PropertyAccessors
+package chap2.PropertyAccessors
 
 class Cage2(private val maxCapacity: Int) {
   private val hamsters = mutableListOf<Hamster>()
