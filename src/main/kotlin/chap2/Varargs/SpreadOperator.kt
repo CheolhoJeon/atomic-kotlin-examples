@@ -10,6 +10,11 @@ fun main() {
   // Doesn't compile:
   // sum(1, 2, 3, array, 6)
 
+  val (a, b) = array
+
+  a eq 4
+  b eq 5
+
   val list = listOf(9, 10, 11)
   sum(*list.toIntArray()) eq 30            // [2]
 }
